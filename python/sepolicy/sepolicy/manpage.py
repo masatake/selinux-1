@@ -272,10 +272,10 @@ Fedora or Red Hat Enterprise Linux Man Pages.</h2>
 <html>
 <head>
 	<link rel=stylesheet type="text/css" href="../style.css" title="style">
-	<title>Linux man-pages online for Fedora18</title>
+	<title>Linux man-pages online for Fedora</title>
 </head>
 <body>
-<h1>SELinux man pages for Fedora18</h1>
+<h1>SELinux man pages for Fedora</h1>
 <hr>
 <table><tr>
 <td valign="middle">
